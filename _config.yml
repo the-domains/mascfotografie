@@ -6,9 +6,9 @@ color:
   saturation: 0.17996316007338464
   rhythmicContrast: 0.9445158985909075
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: MaScFotografie
