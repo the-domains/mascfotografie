@@ -1,18 +1,30 @@
-typography_spectrum: 0.17455476196482778
-color:
-  brandStrength: 0.1449233873281628
-  lightness: 0.8243685835041106
-  saturation: 0.17996316007338464
-  rhythmicContrast: 0.9445158985909075
-  brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-layout_spectrum: 0.33939631120301783
-name: MaScFotografie
 title: MaScFotografie
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1799631600733846
+  brandStrength: 0.6600429
+  lightness: 0.8243685835041106
+  brandColors:
+    - '#FFFFFF'
+    - '#626258'
+    - '#362013'
+    - '#AFA8A0'
+    - '#F1DECE'
+  rhythmicContrast: 0.9445158985909075
+typography_spectrum: 0.3485499
 description: >-
   "My job as a portrait photographer is to seduce, amuse and entertain" by
   Helmut Newton
+layout_spectrum: 0.9833512
+name: MaScFotografie
